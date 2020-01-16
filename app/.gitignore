@@ -6,7 +6,7 @@
 
 # Files for the ART/Dalvik VM
 *.dex
-.idea/
+
 # Java class files
 *.class
 
@@ -20,7 +20,7 @@ out/
 # Gradle files
 .gradle/
 build/
-
+.idea/
 # Local configuration file (sdk path, etc)
 local.properties
 
